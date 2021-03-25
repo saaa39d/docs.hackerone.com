@@ -106,4 +106,3 @@ Swag | Mark that you've rewarded the hacker with swag.
 
 4) Click **Set award**.
 
-![report-action-4](./images/report-action-4.png)
